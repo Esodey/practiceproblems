@@ -1,3 +1,11 @@
+// You will be given an array of integers. All of the integers except one occur twice. 
+// That one is unique in the array.
+
+// Given an array of integers, find and print the unique element.
+
+// For example, a = [1,2,3,4,3,2,1], the unique element is 4.
+
+
 function lonelyinteger(a) {
   let freqCounter = {}, i;
 
